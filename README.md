@@ -1709,6 +1709,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Mahadev0722">
+                    <img src="https://avatars.githubusercontent.com/u/121512608?v=4" width="100px;" alt="Mahadeva B M"/>
+                    <br />
+                    <sub><b>Vishnu Kumar Singh</b></sub>
+                </a
         </tr>
     </tbody>
 </table>
